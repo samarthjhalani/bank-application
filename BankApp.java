@@ -1,4 +1,4 @@
-/*
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -10,7 +10,7 @@ abstract class User {
     public User(String name, int userId) {
         this.name = name;
         this.userId = userId;
-    }f
+    }
 }
 
 class Customer extends User {
@@ -265,4 +265,4 @@ public class BankApp {
             }
         }
     }
-}*/
+}
